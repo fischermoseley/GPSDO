@@ -13,13 +13,13 @@ If you're curious and would like to see more details, there's a more complete wr
 ## Pictures and Schematic
 
 Front of the Oscillator:
-![alt text](https://github.com/FischerMoseley/GPSDO/Images/Off.JPG "Front of the Oscillator")
+![alt text](https://github.com/FischerMoseley/GPSDO/blob/master/Images/Off.JPG "Front of the Oscillator")
 
 Status Indicator:
-![alt text](https://github.com/FischerMoseley/GPSDO/Images/On.JPG "Status Indicator")
+![alt text](https://github.com/FischerMoseley/GPSDO/blob/master/Images/On.JPG "Status Indicator")
 
 Internal Construction:
-![alt text](https://github.com/FischerMoseley/GPSDO/Images/Side.JPG "Internal Construction")
+![alt text](https://github.com/FischerMoseley/GPSDO/blob/master/Images/Side.JPG "Internal Construction")
 
 System Schematic:
-![alt text](https://github.com/FischerMoseley/GPSDO/Images/Schematic.JPG "System Schematic")
+![alt text](https://github.com/FischerMoseley/GPSDO/blob/master/Images/Schematic.JPG "System Schematic")

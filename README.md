@@ -1,2 +1,2 @@
 # GPSDO
-GPS Disciplined Oscillator for precision timekeeping.
+GPS Disciplined Oscillator for precision timekeeping
